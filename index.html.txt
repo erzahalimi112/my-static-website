@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Website</title>
+</head>
+
+<body>
+
+<h1>Welcome to my website</h1>
+<p>This site is hosted online.</p>
+
+<a href="about.html">About</a>
+<a href="contact.html">Contact</a>
+
+</body>
+</html>
